@@ -1,0 +1,6 @@
+c:\users\okane\onedrive\belgeler\visual studio 2015\Projects\test\test\bin\Debug\test.exe.config
+c:\users\okane\onedrive\belgeler\visual studio 2015\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\okane\onedrive\belgeler\visual studio 2015\Projects\test\test\bin\Debug\test.exe
+c:\users\okane\onedrive\belgeler\visual studio 2015\Projects\test\test\bin\Debug\test.pdb
+c:\users\okane\onedrive\belgeler\visual studio 2015\Projects\test\test\obj\Debug\test.exe
+c:\users\okane\onedrive\belgeler\visual studio 2015\Projects\test\test\obj\Debug\test.pdb
